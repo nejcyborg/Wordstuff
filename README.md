@@ -5,3 +5,5 @@ I recently just published my first Unity book, focusing on Word Games. The book 
 The book has 4 different game tutorials, plus tutorials on how to manage word lists and how to solve grids.
 
 The book is available at [Amazon](https://www.amazon.com/Word-Games-Unity-Roger-Engelbert-ebook/dp/B0796DNB6G/) and [iBooks](http://itunes.apple.com/us/book/isbn9781912084364).
+
+I added this line
